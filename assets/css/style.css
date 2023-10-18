@@ -1,0 +1,16 @@
+
+#avatar {
+    width: 12.5rem !important;
+    height: 8.5rem !important;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar-bg-img {
+    background-image: url("/assets/img/dragon-trasparent.png") !important;
+    background-position-y: 460px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
