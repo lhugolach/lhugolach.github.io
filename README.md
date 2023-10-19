@@ -1,56 +1,25 @@
 # lhugolach.github.io
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Blog/wiki che raccoglie le sessioni e le avventure della compagnia de "*Gli Spammoni di D&D*"
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Struttura progetto
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Il servizio è un sito web statico realizzato con il motore [jekyll](https://github.com/jekyll/jekyll) basato su [Ruby](https://github.com/ruby/ruby), il template utilizzato è [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) nella [versione base](https://github.com/cotes2020/chirpy-starter)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## Mappa del sito
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+La chiave primaria del blog sono le avventure, categorizzate da un titolo principale, 
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+Al loro interno troviamo le sotto categorie, che raccolgono le pagine che raccontano le singole sessioni, la lore, i personaggi giocanti e i personaggi non giocanti.
 
-## Prerequisites
+I tag offrono una serie di raggruppamenti e di informazioni aggiuntive, come il gioco di riferimento (D&D, Cthulhu, etc.)
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+## Dipendenze
 
-## Installation
+- [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) v6.2.3
+- [jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) v1.1.3
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+## Licenze
+Tutte le illustrazioni e le mappe non sono realizzate da me. 
 
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Gli screenshot vengono catturati dalla compagnia durante le sessioni effettuate attraverso il servizio [Roll20.net](https://roll20.net/), così come i relativi riassunti descritti nei vari articoli.

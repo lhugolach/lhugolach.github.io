@@ -14,3 +14,9 @@
     background-size: contain !important;
     background-repeat: no-repeat !important;
 }
+
+.image-center-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
