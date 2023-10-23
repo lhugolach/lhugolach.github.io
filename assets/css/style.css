@@ -1,3 +1,6 @@
+#topbar-wrapper {
+    border-radius: 0px 0px 10px 10px;
+}
 
 #avatar {
     width: 12.5rem !important;
@@ -19,4 +22,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#tail-wrapper>:not(script) {
+    margin-top: 0rem !important;
+}
+
+.post-tail-wrapper {
+    margin-top: 6rem;
+    border-bottom: 0px !important;
+}
+
+footer {
+    border-radius: 10px 10px 0px 0px;
 }
