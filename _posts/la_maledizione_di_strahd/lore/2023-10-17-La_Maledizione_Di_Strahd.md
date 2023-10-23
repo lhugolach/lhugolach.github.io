@@ -9,6 +9,6 @@ image:
   path: /assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.jpg
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.jpg){: .top w="400" h="400" }
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.jpg){: .top w="900" h="900" }
 
 ## Primo paragrafo
