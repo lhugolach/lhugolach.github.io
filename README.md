@@ -20,6 +20,6 @@ I tag offrono una serie di raggruppamenti e di informazioni aggiuntive, come il 
 - [jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) v1.1.3
 
 ## Licenze
-Tutte le illustrazioni e le mappe non sono realizzate da me.
+Tutte le illustrazioni e le mappe non sono realizzate da me, il copyright appartiene ai leggittimi autori ([Wizards of the Coast(https://dnd.wizards.com/)], etc.).
 
 Gli screenshot vengono catturati dalla compagnia durante le sessioni effettuate attraverso il servizio [Roll20.net](https://roll20.net/), così come i relativi riassunti descritti nei vari articoli.
