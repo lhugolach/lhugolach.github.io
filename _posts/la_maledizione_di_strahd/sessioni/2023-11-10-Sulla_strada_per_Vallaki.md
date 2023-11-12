@@ -20,7 +20,7 @@ La nana nel suo cammino di caccia avverte una presenza, senza riuscire a capire 
 
 Nel frattempo al fuoco, Kirsul torna senza una castagna, le poche disponibili erano già state consumate dai vermi.
 
-Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, Abominabunny accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
+Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, [Abominabunny](image.png) accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
 
 Ismark e Ireena ringraziano la compagnia, mettendo a servizio tutta la loro disponibilità per stebitarsi di avergli salvato la vita, e invitati da Glynda aiutano il gruppo alla cottura del cervo.
 
@@ -30,7 +30,7 @@ La compagnia cena davanti al fuoco e discutono per l'organizzazione sulla giorna
 
 Kirsul chiede agli ospiti cosa faranno a una volta raggiunta Vallaki.
 
-Ismark informa che saranno ospiti di una festa dal [Borgomastro di Barovia](), famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura [Strhad]().
+Ismark informa che saranno ospiti ad una festa dal [Borgomastro di Barovia](), famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura [Strhad]().
 
 Glynda piena di curiosità, non vede l'ora di fare visita visitare alla cartomante del villaggio, nonostante la sua indifferente fiducia nei tarocchi.
 
@@ -38,4 +38,46 @@ Gli ospiti sono curiosi sul passato degli avventurieri, che tentano di spiegare 
 
 Tak scherza sul sortilegio subito quando ha toccato la sfera che ha teletrasportato la compagnia a [Barovia](/posts/Barovia).
 
-Ireena scambia uno sguardo con Bismark quando chiedono come la compagnia pensa di tornare a casa, e pensando ad alta voce, ipotizzano che la causa di tutto sia Strhad.
+Ireena scambia uno sguardo con Ismark quando chiedono come la compagnia pensa di tornare a casa, e pensando ad alta voce, ipotizzano che la causa di tutto sia Strhad.
+
+Per conciliare il sonno, Tak culla la compagnia con la "Ballata degli impiccati"
+
+"*Fratelli umani, che dopo noi vivete,
+Non abbiate per noi il cuore indurito,
+Perché se pietà di noi miseri avete
+Ricorderà Dio di avervi sentito.
+E qui ci vedete, appesi all’infinito:
+E la nostra carne che fu troppo amata
+Ora col tempo dal tempo è scavata,
+Le nostre ossa saranno monconi,
+Il vostro saluto non sia una risata:
+Pregate il buon Dio che tutti perdoni!*
+
+*Se vi chiamiamo fratelli dovete
+Aver pazienza: subimmo gli strali
+Della giustizia, ma voi lo sapete,
+Per lei non son tutti gli uomini uguali.
+Perdono, pregate, voi per caso mortali,
+la Vergine e i Santi sui loro fulgidi troni,
+Che la loro Grazia non sia finita,
+Che ci salvino dai neri burroni.
+Noi siamo morti, la vita è fuggita:
+Pregate il Buon Dio che tutti perdoni!*
+
+*La pioggia abbastanza ci ha ormai dilavati,
+Il sole ci annera e ci rinsecchisce,
+Il corvo furioso, gli occhi cavati.
+La barba e il ciglio col becco ghermisce,
+Il tempo riposo per noi non capisce.
+E il vento inclemente ritorna e viene
+E ondeggiano i corpi, ricordi di pene,
+Trafitti dai colpi, trafitti dai suoni,
+E voi che siete non volgete le schiene:
+Pregate il Buon Dio che tutti perdoni!*
+
+*Principe altissimo, che tutto puoi fare,
+Nel fuoco e nel buio non ci scagliare,
+Benché non abbiamo per te più doni,
+Uomini, adesso non c'è da scherzare:
+Pregate il Buon Dio che tutti perdoni!*"
+
