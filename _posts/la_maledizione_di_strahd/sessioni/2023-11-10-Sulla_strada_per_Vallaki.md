@@ -12,15 +12,15 @@ image:
 
 La compagnia si prepara a passare la notte accampadosi nella foresta lungo la via per [Vallaki](/posts/Vallaki), riposandosi davanti al fuoco e rifocillandosi con quello che la natura offre.
 
-[Kirsul](/posts/kirsul) tenta di cercare delle castagne, mentre [Glynda](/posts/glynda) lascia la sua ascia magica a tagliare in autonomia la legna, per andare a cercare della selvaggina con il suo giavellotto.
+[Kirsul](/posts/Kirsul) tenta di cercare delle castagne, mentre [Glynda](/posts/Glynda) lascia la sua ascia magica a tagliare in autonomia la legna, per andare a cercare della selvaggina con il suo giavellotto.
 
-Al falò [Theredas](/posts/Theredas) fa la guardia, mentre i restanti [Losse](/posts/losse), [Tak](/posts/tak) e i due ospiti [Ireena Kolyana](/posts/Ireena_Kolyana) e [Ismark "il minore" Kolyanovich](/posts/Ismark_Kolyanovich) restano attorno al fuoco.
+Al falò [Theredas](/posts/Theredas) fa la guardia, mentre i restanti [Losse](/posts/Losse), [Tak](/posts/Tak) e i due ospiti [Ireena Kolyana](/posts/Ireena_Kolyana) e [Ismark "il minore" Kolyanovich](/posts/Ismark_Kolyanovich) restano attorno al fuoco.
 
 La nana nel suo cammino di caccia avverte una presenza, senza riuscire a capire di cosa si tratta lancia il suo giavellotto, e solo dopo averlo centrato, capisce dal verso che si tratta di un cerbiatto, che finirà con la sua fedele ascia.
 
 Nel frattempo al fuoco, Kirsul torna senza una castagna, le poche disponibili erano già state consumate dai vermi.
 
-Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, [Abominabunny](image.png) accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
+Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, [Abominabunny](/posts/Tak) accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
 
 Ismark e Ireena ringraziano la compagnia, mettendo a servizio tutta la loro disponibilità per stebitarsi di avergli salvato la vita, e invitati da Glynda aiutano il gruppo alla cottura del cervo.
 
@@ -30,7 +30,7 @@ La compagnia cena davanti al fuoco e discutono per l'organizzazione sulla giorna
 
 Kirsul chiede agli ospiti cosa faranno a una volta raggiunta Vallaki.
 
-Ismark informa che saranno ospiti ad una festa dal [Borgomastro di Barovia](), famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura [Strhad]().
+Ismark informa che saranno ospiti ad una festa dal Borgomastro di Barovia, famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura Strhad.
 
 Glynda piena di curiosità, non vede l'ora di fare visita visitare alla cartomante del villaggio, nonostante la sua indifferente fiducia nei tarocchi.
 
