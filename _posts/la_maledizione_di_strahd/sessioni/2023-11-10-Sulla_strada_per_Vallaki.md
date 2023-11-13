@@ -81,3 +81,5 @@ Benché non abbiamo per te più doni,
 Uomini, adesso non c'è da scherzare:
 Pregate il Buon Dio che tutti perdoni!*"
 
+*Autore: Francoins Villon  
+Traduzione: Tiziano Sclavi*

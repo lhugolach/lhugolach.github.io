@@ -33,6 +33,7 @@
 }
 
 .preview-img img {
+    width: auto !important;
     border-radius: 0 0 0 0 !important;
 }
 
