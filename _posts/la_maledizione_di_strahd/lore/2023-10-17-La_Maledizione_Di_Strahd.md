@@ -6,9 +6,7 @@ tags: [Dungeons & Dragons]
 author: author-1
 pin: true
 image:
-  path: /assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.jpg
+  path: /assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.webp
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.jpg){: .top w="900" h="900" }
-
-## Primo paragrafo
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/etc/curse-of-strahd-header.webp){: .top w="900" h="900" }

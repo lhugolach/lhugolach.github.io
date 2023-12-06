@@ -5,10 +5,10 @@ categories: [La Maledizione di Strahd, Sessione]
 tags: [Dungeons & Dragons]
 author: author-1
 image:
-  path: /assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-10/falo.jpg
+  path: /assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-10/falo.webp
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-10/falo.jpg){: .top w="900" h="900" }
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-10/falo.webp){: .top w="900" h="900" }
 
 La compagnia si prepara a passare la notte accampadosi nella foresta lungo la via per [Vallaki](/posts/Vallaki), riposandosi davanti al fuoco e rifocillandosi con quello che la natura offre.
 
@@ -20,7 +20,7 @@ La nana nel suo cammino di caccia avverte una presenza, senza riuscire a capire 
 
 Nel frattempo al fuoco, Kirsul torna senza una castagna, le poche disponibili erano già state consumate dai vermi.
 
-Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, [Abominabunny](/posts/Tak) accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
+Mentre Glynda raggiunge il gruppo con il cervo sulla spalla, [Abominabunny](/posts/Tak#abominabunny) accecata dall'odore del sangue assale la nana nel tentativo di strapparle parte della preda appena cacciata.
 
 Ismark e Ireena ringraziano la compagnia, mettendo a servizio tutta la loro disponibilità per stebitarsi di avergli salvato la vita, e invitati da Glynda aiutano il gruppo alla cottura del cervo.
 
@@ -30,7 +30,7 @@ La compagnia cena davanti al fuoco e discutono per l'organizzazione sulla giorna
 
 Kirsul chiede agli ospiti cosa faranno a una volta raggiunta Vallaki.
 
-Ismark informa che saranno ospiti ad una festa dal Borgomastro di Barovia, famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura Strhad.
+Ismark informa che saranno ospiti ad una festa dal Borgomastro di Barovia, famose per essere molto importanti, per chiedere aiuto e scacciare via dai pensieri la figura [Strahd von Zarovich](/posts/Strahd_von_Zarovich).
 
 Glynda piena di curiosità, non vede l'ora di fare visita visitare alla cartomante del villaggio, nonostante la sua indifferente fiducia nei tarocchi.
 
@@ -38,9 +38,9 @@ Gli ospiti sono curiosi sul passato degli avventurieri, che tentano di spiegare 
 
 Tak scherza sul sortilegio subito quando ha toccato la sfera che ha teletrasportato la compagnia a [Barovia](/posts/Barovia).
 
-Ireena scambia uno sguardo con Ismark quando chiedono come la compagnia pensa di tornare a casa, e pensando ad alta voce, ipotizzano che la causa di tutto sia Strhad.
+Ireena scambia uno sguardo con Ismark quando chiedono come la compagnia pensa di tornare a casa, e pensando ad alta voce, ipotizzano che la causa di tutto sia Strahd.
 
-Per conciliare il sonno, Tak culla la compagnia con la "Ballata degli impiccati"
+Per conciliare il sonno, Tak culla la compagnia interpretando un racconto: "Ballata degli impiccati"
 
 "*Fratelli umani, che dopo noi vivete,
 Non abbiate per noi il cuore indurito,

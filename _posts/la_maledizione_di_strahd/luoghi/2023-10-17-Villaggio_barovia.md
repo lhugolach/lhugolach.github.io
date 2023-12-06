@@ -4,12 +4,12 @@ categories: [La Maledizione di Strahd, Luoghi]
 tags: [Dungeons & Dragons]
 author: author-1
 image:
-  path: /assets/img/posts/la_maledizione_di_strahd/mappe/villaggio_barovia_small.jpg
+  path: /assets/img/posts/la_maledizione_di_strahd/luoghi/villaggio_barovia_small.webp
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/mappe/villaggio_barovia_small.jpg){: .top }
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/luoghi/villaggio_barovia_small.webp){: .top }
 
-[Vedi a dimensioni originali](/assets/img/posts/la_maledizione_di_strahd/mappe/villaggio_barovia.jpg){:target="_blank"}
+[Vedi a dimensioni originali](/assets/img/posts/la_maledizione_di_strahd/luoghi/villaggio_barovia.webp){:target="_blank"}
 
 ## Descrizione
 

@@ -5,10 +5,10 @@ categories: [La Maledizione di Strahd, NPC]
 tags: [Dungeons & Dragons]
 author: author-1
 image:
-  path: /assets/img/posts/la_maledizione_di_strahd/npc/Ismark_Kolyanovich.jpg
+  path: /assets/img/posts/la_maledizione_di_strahd/npc/Ismark_Kolyanovich.webp
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/npc/Ismark_Kolyanovich.jpg){: .top w="300" h="300" }
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/npc/Ismark_Kolyanovich.webp){: .top w="300" h="300" style="border-radius:10px"}
 
 ## Aspetto
 Ismark indossa una tunica marrone sotto un gilet verde scuro. Ha i capelli biondo chiaro e il mento cesellato.

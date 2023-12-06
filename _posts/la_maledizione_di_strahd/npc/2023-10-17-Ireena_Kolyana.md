@@ -5,10 +5,10 @@ categories: [La Maledizione di Strahd, NPC]
 tags: [Dungeons & Dragons]
 author: author-1
 image:
-  path: /assets/img/posts/la_maledizione_di_strahd/npc/Ireena_Kolyana.jpg
+  path: /assets/img/posts/la_maledizione_di_strahd/npc/Ireena_Kolyana.webp
 ---
 
-![Desktop View](/assets/img/posts/la_maledizione_di_strahd/npc/Ireena_Kolyana.jpg){: .top w="400" h="400" }
+![Desktop View](/assets/img/posts/la_maledizione_di_strahd/npc/Ireena_Kolyana.webp){: .top w="400" h="400" }
 
 ## Aspetto
 Ha lunghi capelli castani e indossa un mantello rosso. Porta una spada d'argento con un'armatura d'argento abbinata.
