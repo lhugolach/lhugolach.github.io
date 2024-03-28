@@ -11,7 +11,7 @@ image:
 
 ![Desktop View](/assets/img/posts/la_maledizione_di_strahd/personaggi/kirsul.webp){: .right w="400" }
 
-Il coraggioso Kirsul è un coraggioso cavaliere, non ha paura di sporcarsi i guanti o di insanguinare la spada. 
+Il coraggioso Kirsul Corman è un coraggioso cavaliere, non ha paura di sporcarsi i guanti o di insanguinare la spada. 
 
 Anzi, qualcuno direbbe che gli piace. 
 

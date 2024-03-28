@@ -10,9 +10,9 @@ image:
 
 ![Desktop View](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-17/copertina.webp){: style="border-radius:10px"}
 
-Gli avventurieri e gli ospiti decidono di concludere la giornata con un meritato riposo, mentre [Kirsul](/posts/Kirsul) volontariamente propone per il primo turno di guardia.  
+Gli avventurieri e gli ospiti decidono di concludere la giornata con un meritato riposo, mentre [Kirsul](/posts/Kirsul_Corman) volontariamente propone per il primo turno di guardia.  
 Il paladino, nel religioso silenzio della foresta, decide di meditare e pregare al proprio Dio, davanti al fuoco e alla luna splendente della notte.  
-Ma, passate alcune ore, il freddo incombe sulle spalle del cavaliere e le sue forze iniziano a cedere, decide dunque di svegliare [Alunjs](/posts/Alunjs) per il cambio della guardia.  
+Ma, passate alcune ore, il freddo incombe sulle spalle del cavaliere e le sue forze iniziano a cedere, decide dunque di svegliare [Alunjs](/posts/Alunjs_Grayrat) per il cambio della guardia.  
 Entra nella tenda senza badare al peso dei suoi passi o il tintinio di ogni placca della sua armatura che fragorosamente risuonano nella notte.  
 La scuote la ladra dormiente per le spalle, che si agita pigramente credendo di sognare, ma tristemente capisce presto che il Kirsul la sta svegliando bruscamente nella realtà.  
 Lui chiede il cambio di guardia, e lei, con amarezza, accetta.  
@@ -35,19 +35,19 @@ Sussulta, si spaventa, lascia la tavoletta e perde la concentrazione.
 Il vento si calma, il fuoco si affievolisce sempre di più, la foresta è silenziona, non si percepisce nemmeno un animale, Alunjs si alza, sgranchisce le gambe.  
 
 Fa due passi, si allontana brevemente dall'accampamento e indirizzandosi verso il bosco, lasciandosi sempre di più la debile luce del falò, sente un gorgloglio rognoso, senza comprenderne la natura.  
-Spaventata corre verso [Theredas](/posts/Theredas), lo sveglia, chiedendogli di seguirla verso l'origine del suono.  
+Spaventata corre verso [Theredas](/posts/Theredas_il_Forestiero), lo sveglia, chiedendogli di seguirla verso l'origine del suono.  
 Controvoglia Theredas scende dall'albero su cui dormiva, e segue Alunjs nuovamente ormai lontana dal campo.  
 Raggiunta la ladra anche lui con le sue acute abilità da elfo, sente un rumore di foglie smosse seguite da un grugnare minaccioso.  
-Theredas propone di svegliare qualcun'altro del gruppo, tutti tranne [Glynda](/posts/Glynda): teme l'ira della nanna svegliata nel bel mezzo del suo sacro riposo notturno.  
+Theredas propone di svegliare qualcun'altro del gruppo, tutti tranne [Glynda](/posts/Glynda_Battlestout): teme l'ira della nanna svegliata nel bel mezzo del suo sacro riposo notturno.  
 Dunque la scelta cade su Kirsul.  
 
 Il paladino, che dormiva indossando l'elmo, trasmette tutta la sua contrarietà dall'essere svegliato poiche aveva appena preso sonno:  "_Perché disturbate il mio riposo, andate a svegliare il giocoliere di ossa piuttosto!_" 
 
-Alunjs sveglia [Tak](/posts/Tak), che in preda alla confusione della notte agita il suo bastone per aria, centrando in testa la ladra procurandole una grossa ferita sul capo.  
+Alunjs sveglia [Tak](/posts/Tak_Trooblood), che in preda alla confusione della notte agita il suo bastone per aria, centrando in testa la ladra procurandole una grossa ferita sul capo.  
 Con le lacrime agli occhi e la mano sul capo, spiega la minaccia e dunque prega di accompagnarlo verso bosco.  
 Il ranger suggerisce di svegliare la nana, lasciando a lui le sorti del risveglio.  
 
-Tak, con furbizia, manda [Abominabunny](/posts/Tak#abominabunny) a svegliare [Glynda](/posts/Glynda), che con foga si insinua nella tenda, ma stizzito dall'odore dei piedi corre verso il viso che inizia a leccarle il naso, insanguinandole tutto il viso.  
+Tak, con furbizia, manda [Abominabunny](/posts/Tak_Trooblood#abominabunny) a svegliare Glynda, che con foga si insinua nella tenda, ma stizzito dall'odore dei piedi corre verso il viso che inizia a leccarle il naso, insanguinandole tutto il viso.  
 La nana inizia a sorridere per il solletico, che termina immediatamente quando percepisce il forte alito del coniglio.  
 Infuriata, sbatte fuori dalla tenda l'animale con un calcio urlando "_Taaak!_" e uscendo dalla tenda vede i suoi compagni in assetto d'attacco.  
 La ladra giustifica il risveglio di Glynda, che ascolta distrattamente occupata a cercare qualcosa da mettere sotto i denti.  
@@ -71,7 +71,7 @@ Il ringhio sparisce, il vento si alza nuovamente, una figura si palesa davanti a
 Glynda lo schernisce, ma all'improvviso una presenza, come una mano fantasma, stringe il collo della nana per poi, lasciandola senza respiro.  
 La figura parla: "_Stranieri, come vi trovate a nella mia terra? Lasciate che mi presenti: sono [Strahd von Zarovich](/posts/Strahd_von_Zarovich), e voi avete qualcosa che mi appartiene!_"  
 Alunjs terrorizzata balbetta: "_Il boccale ce l'ha la nana!_"  
-Irritato, Strahd fa inginocchiare la ladra con la sola imposizione delle mani, l'elfa sconvolta a dolorante non può ribellarsi.  
+Irritato, Strahd fa inginocchiare la ladra con la sola imposizione delle mani, l'elfa sconvolta e dolorante non può ribellarsi.  
 
 ![incontro_strahd](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-17/incontro_strahd.webp){: h="600" style="border-radius:10px"}
 

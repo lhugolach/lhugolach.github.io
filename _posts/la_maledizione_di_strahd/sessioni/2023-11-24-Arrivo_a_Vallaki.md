@@ -10,7 +10,7 @@ image:
 
 ![Desktop View](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-24/vallaki_entrata.webp){: style="border-radius:10px"}
 
-## Cammino della compagnia
+## Tragitto della compagnia
 
 ![mappa](/assets/img/posts/la_maledizione_di_strahd/sessioni/2023-11-24/mappa.webp){: style="border-radius:10px"}
 
@@ -18,13 +18,13 @@ image:
 
 La compagnia si trova sul tragitto per raggiungere la città di [Vallaki](/posts/Vallaki), prevedono di raggiungere le porte a breve.  
 
-[Kirsul](/posts/Kirsul) chiede a [Ismark](/posts/Ismark_Kolyanovich) e a [Ireena](/posts/Ireena_Kolyana) qual è il luogo esatto che i due fratelli devono raggiungere.  
+[Kirsul](/posts/Kirsul_Corman) chiede a [Ismark](/posts/Ismark_Kolyanovich) e a [Ireena](/posts/Ireena_Kolyana) qual è il luogo esatto che i due fratelli devono raggiungere.  
 Ismark pensa di andare alla [Chiesa di Sant'Andral](/posts/Chiesa_di_Sant'Andral), pensando di trovare qualcuno che li protegge, oppure in alternativa andare dal Borgomastro.  
 Kirsul suggerisce di diventare paladino, ma Ismark confessa che avrebbe preferito vivere nel [Villaggio di Barovia](/posts/Villaggio_barovia) con la propria famiglia.  
 Ireena sottolinea che il fratello non è nato per combattere, lui è un uomo di pace.  
 
 Il freddo inizia a diventare pungente, fino ad intimorire le ossa, nonostante il giorno si faccia sempre più luminoso.  
-Tak, come sua nota curiosità, chiede chi sia il Borgomastro.  
+[Tak](/posts/Tak_Trooblood), come sua nota curiosità, chiede chi sia il Borgomastro.  
 Ismark rivela che è un uomo molto potente, il [Barone Vargas Vallakovich](/posts/Barone_Vargas_Vallakovich) e la moglie [Lydia Petrovna](/posts/Lydia_Petrovna), governano su Vallaki da molti anni, e ultimamente organizzano molte feste senza un reale motivo.  
 "_Feste? Che tipo di feste?_" chiede il paladino in tono sorpreso.  
 "_Si pensa che voglia esorcizzare la presenza sinistra di [Strahd von Zarovich](/posts/Strahd_von_Zarovich) nella regione..._" rivela Ireena in tono dubbioso.
@@ -34,8 +34,8 @@ Ismark rivela che è un uomo molto potente, il [Barone Vargas Vallakovich](/post
 Il gruppo raggiunge finalmente le porte di Vallaki, ma una guardia presente sul posto, li ferma: "_Altolà, cosa vi porta a Vallaki, siete qui per la festa?_"  
 Il gruppo risponde timidamente di si, tranne la chierica che esclama: "_Siamo qui per gli esorcisti!_"  
 In modo minaccioso la guardia risponde: "_Di quali esorcismi parli?_"  
-[Losse](/posts/Losse) con pazienza spiega: _"Sembra che qui si percepisca un'atmosfera strana, inquietante..._"  
-La guardia esclama "_Guarda donna, qui non ci sono diavoli!_", i suoi occhi poi cadono sul [coniglio](/posts/Tak#abominabunny) e di colpo si riempiono di inquietudine "_Cosa diavolo è quella creatura!"_  
+[Losse](/posts/Losse_Von_Anne) con pazienza spiega: _"Sembra che qui si percepisca un'atmosfera strana, inquietante..._"  
+La guardia esclama "_Guarda donna, qui non ci sono diavoli!_", i suoi occhi poi cadono sul [coniglio](/posts/Tak_Trooblood#abominabunny) e di colpo si riempiono di inquietudine "_Cosa diavolo è quella creatura!"_  
 Tak ridachia e cerca di rassenerare la sua angoscia: "_Cosa c'è da preoccuparsi, non è sangue... È marmellata di fichi!_"  
 La guardia continua a chiedersi chi sono queste figure così strane.  
 Nonostante le voci nella regione dei villaggi attaccate da esseri non morti, la guardia decide di far passare il gruppo non prima chiedendo dove passeranno la notte.  
@@ -46,7 +46,7 @@ Il gruppo entra in città, e notano subito che a differenza della decadenza most
 Entrando dall'ingresso est, raggiungono facilmente la chiesa a pochi passo dall'ingresso.  
 Giunti sul luogo, vedono molte persone che escono.  
 Il gruppo entra e incontrano un uomo che li accoglie: "_Buongiorno ben arrivati! Cosa vi porta a Vallaki?_"
-[Glynda](/posts/Glynda): "_La festa ovviamente! Avete della birra?_"  
+[Glynda](/posts/Glynda_Battlestout): "_La festa ovviamente! Avete della birra?_"  
 L'uomo: "_Salve sono [Padre Lucian](/posts/Padre_Lucian_Petrovich), mi dispiace ma non gestisco la locanda dell'acqua blu presente in questa città, e non frequento nemmeno questi luoghi._"
 Un bambino corre lungo la navata per raggiunge il prete, e urla: "_Padre Lucian, Millivoj vi stava cercando!_"
 Lucian accoglie il bambino con un grosso sorriso: "_Certamente, riferisci pure di venire qui da me_"  
