@@ -22,6 +22,7 @@ I tag offrono una serie di raggruppamenti e di informazioni aggiuntive, come il 
 
 - [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) v6.2.3
 - [jekyll-pdf-embed](https://github.com/MihajloNesic/jekyll-pdf-embed) v1.1.3
+- [jekyll-archives](https://github.com/jekyll/jekyll-archives) v2.2.1 (custom)
 
 ## Licenze
 Tutte le illustrazioni e le mappe non sono realizzate da me, il copyright appartiene ai leggittimi autori ([Wizards of the Coast](https://dnd.wizards.com/), etc.).
